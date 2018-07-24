@@ -158,3 +158,13 @@ export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Ho
 export PATH="/usr/local/opt/postgresql@9.5/bin:$PATH"
 
 eval $(thefuck --alias f -r)
+
+alias unity='/Applications/Unity/Unity.app/Contents/MacOS/Unity'
+
+alias g="git"
+alias gl="g pull | lolcat"
+alias gp="g push | lolcat"
+alias gk="g checkout"
+alias gm="g commit"
+alias ga="g add . | lolcat"
+alias gs="g status | lolcat"
